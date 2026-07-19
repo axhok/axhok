@@ -33,7 +33,7 @@
   <circle cx="150" cy="150" r="140" fill="#1a1a2e" stroke="#e0e0e0" stroke-width="5"/>
   <circle cx="150" cy="150" r="130" fill="#16213e" stroke="#333" stroke-width="2"/>
   
-  <!-- Main Tick Marks (12, 3, 6, 9) -->
+    <!-- Main Tick Marks (12, 3, 6, 9) -->
   <line x1="150" y1="18" x2="150" y2="40" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
   <line x1="150" y1="18" x2="150" y2="40" stroke="#ffffff" stroke-width="6" stroke-linecap="round" transform="rotate(90 150 150)"/>
   <line x1="150" y1="18" x2="150" y2="40" stroke="#ffffff" stroke-width="6" stroke-linecap="round" transform="rotate(180 150 150)"/>
