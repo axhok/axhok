@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm axhok 👋</h1>
 
 <p align="center">
-  <b>Python Developer | MT5 Trading Journal Builder  | MT5 / Mt4 EA Developer</b>
+  <b>Python Developer | MT5 Trading Journal Builder | MT5/MT4 EA Developer </b>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (These are the colorful badges you wanted)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MetaTrader5](https://img.shields.io/badge/-MetaTrader5-0078D4?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -21,8 +21,7 @@
 ---
 
 ### 📊 My GitHub Activity
-The green contribution graph below shows my daily coding activity.  
-*(The dynamic stats service is temporarily paused by its owner – I'll add the fancy charts back when it resumes!)*
+The green contribution graph below shows my daily coding activity.
 
 ---
 
