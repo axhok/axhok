@@ -22,15 +22,11 @@
 
 ### 📊 My GitHub Activity
 
----
-
-### 🕰️ Analog Watch
-
 <p align="left">
   <img src="clock.svg" width="260" alt="Analog Watch">
 </p>
 
-<sup>✨ Live animated SVG – reload the page to reset the hands to 12:00.</sup>
+<sup>✨ </sup>
 
 ---
 
