@@ -21,9 +21,12 @@
 ---
 
 ### 📊 My GitHub Activity
+
+---
+
 ### 🕰️ Analog Watch
 
-<!-- This SVG will show a live-moving analog watch with dark theme -->
+<!-- This SVG will show a live-moving analog watch -->
 <svg width="260" height="260" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
   
   <!-- Outer Frame -->
@@ -46,19 +49,19 @@
   <line x1="150" y1="18" x2="150" y2="38" stroke="#cccccc" stroke-width="4" stroke-linecap="round" transform="rotate(300 150 150)"/>
   <line x1="150" y1="18" x2="150" y2="38" stroke="#cccccc" stroke-width="4" stroke-linecap="round" transform="rotate(330 150 150)"/>
 
-  <!-- ⏰ HOUR HAND (Takes 12 hours to rotate fully) -->
+  <!-- ⏰ HOUR HAND -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="43200s" repeatCount="indefinite" />
     <line x1="150" y1="175" x2="150" y2="85" stroke="#FFD700" stroke-width="8" stroke-linecap="round"/>
   </g>
 
-  <!-- 🕑 MINUTE HAND (Takes 60 minutes to rotate fully) -->
+  <!-- 🕑 MINUTE HAND -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="3600s" repeatCount="indefinite" />
     <line x1="150" y1="180" x2="150" y2="65" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
   </g>
 
-  <!-- ⏱️ SECOND HAND (Takes 60 seconds to rotate fully) -->
+  <!-- ⏱️ SECOND HAND -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="60s" repeatCount="indefinite" />
     <line x1="150" y1="185" x2="150" y2="55" stroke="#ff4d4d" stroke-width="2" stroke-linecap="round"/>
@@ -69,7 +72,7 @@
   <circle cx="150" cy="150" r="8" fill="#e0e0e0"/>
 </svg>
 
-<sup>✨ Live animated SVG – reload the page to reset the hands to 12:00.</sup>---
+<sup>✨ Live animated SVG – reload the page to reset the hands to 12:00.</sup>
 
 ### 📌 Featured Project
 - [Trade Journal](https://github.com/axhok/Trade-Journal) - Single-file MT5 trading journal with calendar and charts.
