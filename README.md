@@ -26,7 +26,11 @@
 
 ### 🕰️ Analog Watch
 
-<img src="https://logwork.com/widget/clock/?time_zone=Asia%2FKathmandu&type=analog&size=260" width="260" alt="Analog Watch">
+<p align="left">
+  <img src="clock.svg" width="260" alt="Analog Watch">
+</p>
+
+<sup>✨ Live animated SVG – reload the page to reset the hands to 12:00.</sup>
 
 ---
 
