@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm axhok 👋</h1>
 
 <p align="center">
-  <b>Python Developer | MT5 Trading Journals Builder | MT5 / Mt4 EA Builder </b>
+  <b>Python Developer | MT5 Trading Journal Builder  | MT5 / Mt4 EA Developer</b>
 </p>
 
 ---
@@ -20,10 +20,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![axhok's GitHub stats](https://github-readme-stats.vercel.app/api?username=axhok&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axhok&layout=compact&theme=dark)
+### 📊 My GitHub Activity
+The green contribution graph below shows my daily coding activity.  
+*(The dynamic stats service is temporarily paused by its owner – I'll add the fancy charts back when it resumes!)*
 
 ---
 
