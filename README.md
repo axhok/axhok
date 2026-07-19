@@ -22,7 +22,6 @@
 
 ### 📊 GitHub Stats
 ![axhok's GitHub stats](https://github-readme-stats.vercel.app/api?username=axhok&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axhok&layout=compact&theme=dark)
 
 ---
