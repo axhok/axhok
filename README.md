@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm axhok 👋</h1>
 
 <p align="center">
-  <b>Python Developer | MT5 Trading Journal Builder | MT5/MT4 EA Developer</b>
+  <b>Python Developer | MT5 Trading Journal Builder | Pine script Developer | MT5/MT4 EA Developer</b>
 </p>
 
 ---
